@@ -1,1 +1,2 @@
-Implemented B1
+Fixed B1
+Added B2
